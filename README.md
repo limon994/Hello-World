@@ -1,4 +1,2 @@
-# Hello-World
-This is a beginning Hello World Repository
-#Coppy
+#Hello World Class
 Just coppy the HelloWorld.php file
